@@ -1,0 +1,152 @@
+.container{
+    width: 1250px;
+    height: 500px;
+    background-image:  url("https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940")      ;
+    ;
+    background-size: 1250px;
+    background-color: #fff;
+    }
+
+.item{
+    color: white;
+    height: 100px;
+    width: 1250px;
+    display: flex;
+    
+}
+.atem1{
+    height: 100px;
+    width: 450px;
+}
+.atem2{
+    height: 100px;
+    width: 800px;
+    display: flex;
+    justify-content: space-around;
+}
+.item1{
+    width: 1250px;
+    height: 200px;
+    display: flex;
+}
+.atem3{
+    color: white;
+    display: flex;
+    justify-content: ;
+    flex-direction: column;
+    height: 200px;
+    width: 625px;
+}
+.atem4{
+    height: 200px;
+    width: 100px;
+}
+.item2{
+    width: 1250px;
+    height: 100px;
+    display: flex;
+
+}
+.atem5{
+    height: 100px;
+    width: 100px;
+}
+.atem6{
+    height: 100px;
+    width: 625px;
+}
+.b1{
+    height: 30px;
+    width: 110px;
+    color: white;
+    background-color: orange;
+    border-radius: 30px;
+    border: 1px ;
+}
+.b2{
+    height: 30px;
+    width: 110px;
+    color: orange;
+    border: 2px solid orange;
+    background-color: grey;
+    border-radius: 30px;
+}
+.item3{
+    display: flex;
+    justify-content: flex-end;
+
+}
+.atem8{
+    color: white;
+}
+.container1{
+    width: 1280px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.item4{
+    width: 1250px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+h5{
+    color: orange;
+}
+.item5{
+    width: 1250px;
+    height: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+.anh{
+    width: 50px;
+    height: 50px;
+    color: orange;
+}
+.btem{
+    width: 260px;
+    height: 200px;
+}
+.item6{
+    width: 1250px;
+    height: 400px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.food{
+    width: 310px;
+    height: 200px;
+}
+.item7{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+.item8{
+    width: 1250px;
+    height: 400px;
+    display: flex;
+}
+.ctem1{
+    width: 725px;
+    height: 400px;
+    text-align: center;
+}
+.ctem2{
+    width: 525px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+.sao{
+    width: 290px;
+    height: 110px;
+}
+.phone{
+    width: 200px;
+    height: 350px;
+}
