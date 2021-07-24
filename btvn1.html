@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick="findEven()"> số chẵn</button>
+    <script>
+        function findEven() {
+    
+    var a = prompt("nhập a trong khoảng 4- 20");
+    if ( a < 4 || a >20 ){
+        alert('try again')
+    }
+    else {
+        for ( let b = 4; b <= a; b++){
+            if ( b % 2 == 0){
+                document.write(b+ ";")
+            }
+        }
+    }
+}
+    </script>
+</body>
+</html>
