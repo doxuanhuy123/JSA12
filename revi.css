@@ -1,0 +1,12 @@
+h2{
+    color: yellowgreen;
+}
+.wp-block-image{
+    width: 1250px;
+    height: 400px;
+    background-size: 1250px;
+    background-color: #fff;
+}
+body{
+    background-color:#737373 ;
+}
